@@ -2,6 +2,8 @@
 
 ## Initial Setup
 
+- Clone this repo
+- Make sure you have 1 or less apps currently active in fly
 - `fly launch` to create new app and **select yes for creating with postgres db**
   - Make sure to choose the `dev` instance of the DB
   - Something like this will be printed to your console. **SAVE IT** for later.
