@@ -1,0 +1,7 @@
+Username:    postgres
+Password:    dMpmsfy66IqJzrx
+Hostname:    snowy-lake-6263.internal
+Flycast:     fdaa:1:b7be:0:1::2
+Proxy port:  5432
+Postgres port:  5433
+Connection string: postgresql://postgres:dMpmsfy66IqJzrx@snowy-lake-6263.flycast:5432
